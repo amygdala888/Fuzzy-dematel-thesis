@@ -1,0 +1,11 @@
+{
+  "name": "fuzzy-dematel-thesis",
+  "private": true,
+  "description": "Aplikasi satu file HTML untuk perhitungan Fuzzy DEMATEL (risiko rantai pasok geopolitik)",
+  "scripts": {
+    "test": "node tests/test_engine.mjs"
+  },
+  "devDependencies": {
+    "xlsx": "0.18.5"
+  }
+}
